@@ -9,7 +9,7 @@
 9. Remove Duplicates from Array: Remove duplicates from the array while maintaining order.
 10. Merge Two Sorted Arrays
 11. Remove given Element from Array
-12. Find the Missing Number: Find the missing number in an array of size  containing numbers from 1 to .
+12. Find the Missing Number: Find the missing number in an array of size  containing numbers from 1 to n.
 13. Find Duplicates in an Array
 14. Find Intersection of Two Arrays: Find the common elements between two arrays.
 15. Find Union of Two Arrays
