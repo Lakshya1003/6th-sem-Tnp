@@ -16,6 +16,7 @@ e = len(arr) - 1
 for i in range(k // 2):
     arr[s + i], arr[e - i] = arr[e - i], arr[s + i]
 
-
-
 print(arr)
+
+# Time Complexity : O(n)
+# Space Complexity : O(1)

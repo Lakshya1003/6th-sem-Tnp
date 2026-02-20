@@ -1,0 +1,23 @@
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+1234567890
+
+example@gmail.com
+
+111-222-333
+
+125.180.233.123
+
+9900449922
+
+lakshya123@
+
+Mr. Lakshya Raj Malviya
+
+Meta characters {need to be escaped ("\")}
+
+python.com
+
+.[{()\^$|?*+
+
+
