@@ -12,8 +12,7 @@ for i in range(0,zc):
 
 arr.clear()
 arr = non
-del(non)
 print (arr)
 
 # Time Complexity : O(n)
-# Space Complexity : O(1)
+# Space Complexity : O(n)

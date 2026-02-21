@@ -9,8 +9,7 @@ for i in range(len(arr)):
     non.append(arr[i])
 arr.clear()
 arr = non
-del(non)
 print(arr)
 
 # Time Complexity : O(n)
-# space Complexity : O(1)
+# space Complexity : O(n)

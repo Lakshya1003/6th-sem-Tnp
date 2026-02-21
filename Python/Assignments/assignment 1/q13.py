@@ -17,5 +17,5 @@ for i in range(len(uni)):
     print(f"element : {uni[i]}")
 
 
-# Time Complexity : O(n)
+# Time Complexity : O(n^2)
 # Space Complexity : O(n)

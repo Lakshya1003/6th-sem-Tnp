@@ -8,6 +8,8 @@ for i in range(len(arr)):
     freq.append(1)
   else :
     temp = uni.index(arr[i])
+
+# .index function have a loop inside it , so it is also have the time complexity of O(n)
     freq[temp] += 1
 
 max = 0
@@ -21,3 +23,6 @@ if max > len(arr)//2 :
 
 else :
   print("-1")
+
+# Time Complexity : O(n^2)
+# Space Complexity : O(n)
